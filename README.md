@@ -1,2 +1,2 @@
 # JavaToObejctivec
-Converts java files to objatcive c
+Converts java files to objective-c
